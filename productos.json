@@ -1,0 +1,6 @@
+{"index": { "_id": "4" } }
+{ "id": 4, "nombre": "Laptop", "precio": 750, "categoria": "Electrónica" }
+{ "index": { "_id": "5" } }
+{ "id": 5, "nombre": "Teléfono", "precio": 300, "categoria": "Electrónica" }
+{ "index": { "_id": "6" } }
+{ "id": 6, "nombre": "Silla", "precio": 100, "categoria": "Muebles" }
